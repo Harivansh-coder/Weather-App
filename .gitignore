@@ -1,0 +1,37 @@
+# gitignore file for django project
+
+venv
+*.pyc
+*.swp
+*.swo
+*.swn
+
+# Ignore database files
+db.sqlite3
+db.sqlite3-journal
+
+# Ignore static files
+static
+
+# Ignore media files
+media
+
+# Ignore .env file
+.env
+
+# Ignore .idea folder
+.idea
+
+# Ignore .vscode folder
+.vscode
+
+# Ignore .DS_Store file
+.DS_Store
+
+# Ignore .pytest_cache folder
+.pytest_cache
+
+# Ignore cache folder
+__pycache__
+
+
