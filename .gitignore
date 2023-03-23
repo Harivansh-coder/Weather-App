@@ -34,4 +34,6 @@ media
 # Ignore cache folder
 __pycache__
 
+migrations
+
 
